@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NOVA PILL</string>
+    <string name="overlay_channel_name">NOVA PILL session</string>
+    <string name="overlay_channel_description">Status for the user-enabled NOVA PILL overlay</string>
+</resources>

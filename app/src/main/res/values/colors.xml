@@ -1,1 +1,4 @@
-
+<resources>
+    <color name="nova_black">#050506</color>
+    <color name="nova_crimson">#D94A59</color>
+</resources>
